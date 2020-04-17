@@ -1,0 +1,115 @@
+{
+    "updated": null,
+    "tested": "0",
+    "infected": "0",
+    "deaths": "0",
+    "recovered": "0",
+    "map": [
+        {
+            "lat": "48.148598",
+            "long": "17.107748",
+            "title": "Bratislava",
+            "amount" {
+                "infected": "170",
+                "deaths": "10",
+                "recovered": "20"
+            }
+        },
+        {
+            "lat": "48.721790",
+            "long": "21.257353",
+            "title": "Kosice",
+            "amount" {
+                "infected": "150",
+                "deaths": "15",
+                "recovered": "10"
+            }
+        }
+    ],
+    "chart": [
+        {
+            "date": "2020-04-04",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "0"
+        },
+        {
+            "date": "2020-04-05",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "5"
+        },
+        {
+            "date": "2020-04-06",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "10"
+        },
+        {
+            "date": "2020-04-07",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "20"
+        },
+        {
+            "date": "2020-04-08",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "30"
+        },
+        {
+            "date": "2020-04-09",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "40"
+        },
+        {
+            "date": "2020-04-10",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "50"
+        },
+        {
+            "date": "2020-04-11",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "60"
+        },
+        {
+            "date": "2020-04-12",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "70"
+        },
+        {
+            "date": "2020-04-13",
+            "recovered": "0",
+            "deaths": "0",
+            "infected": "80"
+        },
+        {
+            "date": "2020-04-14",
+            "recovered": "10",
+            "deaths": "0",
+            "infected": "90"
+        },
+        {
+            "date": "2020-04-15",
+            "recovered": "20",
+            "deaths": "0",
+            "infected": "100"
+        },
+        {
+            "date": "2020-04-16",
+            "recovered": "20",
+            "deaths": "10",
+            "infected": "110"
+        },
+        {
+            "date": "2020-04-17",
+            "recovered": "20",
+            "deaths": "10",
+            "infected": "120"
+        }
+    ]
+}
