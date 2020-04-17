@@ -9,7 +9,7 @@
             "lat": "48.148598",
             "long": "17.107748",
             "title": "Bratislava",
-            "amount" {
+            "amount" : {
                 "infected": "170",
                 "deaths": "10",
                 "recovered": "20"
@@ -19,7 +19,7 @@
             "lat": "48.721790",
             "long": "21.257353",
             "title": "Kosice",
-            "amount" {
+            "amount" : {
                 "infected": "150",
                 "deaths": "15",
                 "recovered": "10"
